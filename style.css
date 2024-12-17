@@ -1,0 +1,18 @@
+*{
+    width: 2000px;
+    padding: 0;
+    margin: auto;
+}
+.header{ 
+    display: flex;
+    background-color: black;
+    color: aliceblue;
+    gap: 80px;
+    position: fixed;
+    top:0;
+    right: 0;
+    left: 0;
+    justify-content: space-around;
+    font-size: 30px;
+    position: fixed;
+}
